@@ -3,7 +3,7 @@
 
 A **Streamlit-based** SQL Query Bot that allows users to execute SQL queries dynamically on a selected **MySQL database**. This bot also integrates **Groq AI** to generate SQL queries based on natural language descriptions.
 
-![Project Screenshot](Screenshot-2025-02-03-220725.png)
+![Project Screenshot](Screenshot 2025-02-03 220725.png)
 
 ---
 
